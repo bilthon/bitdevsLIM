@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevsLIM</title>
+      <link>https://bitdevslima.org</link>
+      <description>BitDevsLIM es una comunidad en Lima para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://bitdevslima.org/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>BitdevsLIM Seminario Socratico #1 </title>
+          <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevslima.org/socratic-seminar-001/</link>
+          <guid>https://bitdevslima.org/socratic-seminar-001/</guid>
+          <description xml:base="https://bitdevslima.org/socratic-seminar-001/">&lt;h3 id=&quot;cronograma&quot;&gt;Cronograma&lt;&#x2F;h3&gt;
+&lt;p&gt;20:00hrs Seminario Socrático por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;20:30hrs Cierre y Networking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lugar&quot;&gt;Lugar&lt;&#x2F;h3&gt;
+&lt;p&gt;Este evento se llevará a cabo en https:&#x2F;&#x2F;meet.jit.si&#x2F;bitdevs-lima-001:&lt;&#x2F;p&gt;
+&lt;p&gt;Si quieres que BitDevs sea en tu espacio:  40230@pm.me&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sugerencias&quot;&gt;Sugerencias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
+Respeta los diferentes pensamientos e ideas.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;p&gt;No fotos, no videos, pero audio recoding = OK&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;que-es-un-seminario-socratico-de-bitdevs&quot;&gt;Qué es un seminario socrático de BitDevs?&lt;&#x2F;h3&gt;
+&lt;p&gt;El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
+Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en repositorios populares de proyectos como Bitcoin.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los Seminarios Socráticos se celebran bajo la Regla de &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;&#x2F;li&gt;
+&lt;li&gt;Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.&lt;&#x2F;li&gt;
+&lt;li&gt;Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escuchó la información, ni la de ningún otro participante.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Source https:&#x2F;&#x2F;bitdevs.org&#x2F;running-a-great-socratic-seminar&#x2F;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;1-cashu-ecash-para-bitcoin&quot;&gt;1. Cashu: Ecash para Bitcoin&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Descripción:&lt;&#x2F;strong&gt;
+Cashu es un protocolo de ecash de código abierto que permite transacciones privadas y rápidas mediante tokens digitales al portador, integrándose con Bitcoin y la red Lightning. (https:&#x2F;&#x2F;cashu.space)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Puntos de discusión:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mejoras en privacidad que ofrece Cashu en transacciones de Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;Comparación con otros protocolos de privacidad en Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;Casos de uso y potencial de adopción en el ecosistema actual.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;2-reservas-estrategicas-de-bitcoin-por-gobiernos&quot;&gt;2. Reservas Estratégicas de Bitcoin por Gobiernos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Descripción:&lt;&#x2F;strong&gt;
+En marzo de 2025, el presidente de EE. UU., Donald Trump, firmó una orden ejecutiva para establecer una reserva estratégica de Bitcoin, utilizando bitcoins confiscados en procedimientos legales. (https:&#x2F;&#x2F;markets.businessinsider.com&#x2F;news&#x2F;currencies&#x2F;donald-trump-strategic-cryptocurrency-reserve-executive-order-bitcoin-price-2025-3?utm_source=copy-link&amp;amp;utm_medium=referral&amp;amp;utm_content=topbar)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Puntos de discusión:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implicaciones geopolíticas y económicas de que los gobiernos acumulen Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;Riesgos y beneficios de esta estrategia para los países.&lt;&#x2F;li&gt;
+&lt;li&gt;Impacto en la percepción global de Bitcoin como activo de reserva.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;3-el-salvador-revierte-el-estatus-legal-de-bitcoin&quot;&gt;3. El Salvador Revierte el Estatus Legal de Bitcoin&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Descripción:&lt;&#x2F;strong&gt;
+A finales de enero de 2025, El Salvador retiró a Bitcoin su condición de moneda de curso legal, casi tres años después de su adopción inicial, bajo presión del Fondo Monetario Internacional para asegurar un crédito de 1.400 millones de dólares. (https:&#x2F;&#x2F;elpais.com&#x2F;america&#x2F;2025-01-30&#x2F;bukele-da-marcha-atras-y-retira-al-bitcoin-la-condicion-de-moneda-legal-en-el-salvador.html)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Puntos de discusión:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Factores que llevaron a esta decisión.&lt;&#x2F;li&gt;
+&lt;li&gt;Lecciones aprendidas de la experiencia de El Salvador con Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;Consecuencias para la adopción de criptomonedas en otros países.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;4-integracion-de-stablecoins-en-la-red-lightning&quot;&gt;4. Integración de Stablecoins en la Red Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Descripción:&lt;&#x2F;strong&gt;
+LQWD Technologies anunció la expansión de sus capacidades para incluir stablecoins en la red Lightning de Bitcoin, permitiendo transacciones instantáneas y de bajo costo con monedas estables, lo que podría ampliar significativamente las aplicaciones de Lightning Network en comercio y finanzas descentralizadas. (https:&#x2F;&#x2F;lqwdtech.com&#x2F;2025&#x2F;lqwd-technologies-announces-expansion-of-stablecoin-capabilities-and-welcomes-tethers-integration-with-lightning-network&#x2F;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Puntos de discusión:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beneficios y desafíos de integrar stablecoins en Lightning Network.&lt;&#x2F;li&gt;
+&lt;li&gt;Impacto potencial en la adopción de Lightning para pagos cotidianos.&lt;&#x2F;li&gt;
+&lt;li&gt;Consideraciones de seguridad y regulación en el uso de stablecoins en Lightning.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
